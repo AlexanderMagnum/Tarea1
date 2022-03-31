@@ -1,0 +1,4 @@
+amor: 51
+odio: 5
+Palabras : 139344
+Mayusculas : 7320

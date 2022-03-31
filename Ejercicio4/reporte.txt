@@ -1,0 +1,4 @@
+El archivo contiene:
+-> Líneas    : 2 
+-> Palabras  : 3 
+-> Caracteres: 19
